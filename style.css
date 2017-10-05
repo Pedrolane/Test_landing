@@ -1,0 +1,86 @@
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  margin: 0;
+}
+
+h1, h2 {
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+h1{
+  color: red;
+  font-weight: bolder;
+  font-size: 30px;
+}
+h2 {
+  color: black;
+  font-weight: lighter;
+  font-size: 35px;
+}
+a {
+  color: red;
+}
+a:hover {
+  text-decoration: none;
+  color: #832122;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://unsplash.it/1300/600?random");
+  background-size: cover;
+  padding: 150px 0;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+
+#banner a:hover {
+  color:white;
+}
+
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+
+#footer a {
+  color: white;
+  font-size:30px;
+  padding:10px;
+}
+
+#footer a:hover {
+  color: lightgrey;
+  font-size:30px;
+}
+
+
+
+
+
+
+
+
+
+
